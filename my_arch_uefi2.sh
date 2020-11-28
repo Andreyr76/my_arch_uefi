@@ -80,5 +80,5 @@ systemctl enable NetworkManager
 
 echo 'Установка завершена! Перезагрузите систему.'
 echo 'Если хотите подключить AUR, установить мои конфиги XFCE, тогда после перезагрзки и входа в систему, установите wget (sudo pacman -S wget) и выполните команду:'
-echo 'wget git.io/archuefi3.sh && sh archuefi3.sh'
+echo 'wget git.io/my_arch_uefi3.sh && sh my_arch_uefi3.sh'
 exit
