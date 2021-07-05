@@ -5,7 +5,6 @@
 
 loadkeys ru
 setfont cyr-sun16
-echo 'Ссылка на чек лист есть в группе vk.com/arch4u'
 
 echo '2.3 Синхронизация системных часов'
 timedatectl set-ntp true
